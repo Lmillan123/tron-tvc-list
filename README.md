@@ -42,7 +42,8 @@ Follow the steps below to add a new token：
 * `symbol`[Required]: your token symbol.
 * `name`[Required]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
-* `homepage`[Required]: the home page of your token.
+* `homepage:https://photos.app.goo.gl/YvTSyqHhds2uNwvi7
+* 
 * `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
 * `existingMarkets`[Required]: where to trade with your token.
 3) Submit PR with the changed JSON file.
