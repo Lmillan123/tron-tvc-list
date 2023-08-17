@@ -39,12 +39,12 @@ Follow the steps below to add a new token：
 }
 ```
 * `address`[Required]: your token address.
-* `symbol`[Required]: your token symbol.
-* `name`[Required]: your token name.
+* `symbol`[wink]: your token symbol.
+* `name`[winklink]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
 * `homepage`[Required]: the home page of your token.
 * `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
-* `existingMarkets`[Required]: where to trade with your token.
+* `existingMarkets`[: where to trade with your token.
 3) Submit PR with the changed JSON file.
 
 
